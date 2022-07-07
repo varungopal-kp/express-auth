@@ -1,0 +1,10 @@
+{
+  "register": {
+    "email": "required",
+    "password": "required"
+  },
+  "login": {
+    "email": "required",
+    "password": "required"
+  }
+}
